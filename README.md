@@ -8,7 +8,7 @@
 
  The script continuously checks Sabanci's website where they display information about the remaining capacity for the given courses. 
 
-## When there are available slots, it notifies the student via SMS.
+ When there are available slots, it notifies the student via SMS.
 
 
 # Future adaptations: 
