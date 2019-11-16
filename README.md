@@ -1,6 +1,7 @@
 # Web-parsing
 
  Registering for a course in Sabanci is like playing the lottery (courses fill up too fast and they have too little capacity and no waitlist). 
+ 
  I developed a script that notifies students when their desired courses have room for registration.
 
  It works by selecting a term followed by a selection of chosen course numbers. 
